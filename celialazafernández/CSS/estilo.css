@@ -1,0 +1,22 @@
+head{
+    border:solid;
+   display:flex;
+   justify-content: center;
+     gap:5px;
+     flex-direction:column;
+     height:350px;
+     align-items:center;
+     background-image:url("https://images.pexels.com/photos/4836368/pexels-photo-4836368.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+     background-size:cover;
+     min-height:100vh;
+     font-family: "Silkscreen", sans serif;
+     text-align:center;
+   
+   }
+   body{
+    margin:0;
+    padding:0;
+    background-color: black;
+    font-color: white;
+    
+  }
